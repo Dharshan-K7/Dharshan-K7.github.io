@@ -1,0 +1,5 @@
+{
+    "editor.minimap.size": "fit",
+    "editor.minimap.renderCharacters": false
+    "liveServer.settings.CustomBrowser": "chrome"
+}
